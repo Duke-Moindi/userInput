@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UserInput</string>
+    <string name="order">ORDER</string>
+    <string name="_zero">0</string>
+    <string name="price">Price</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="_0">0</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="toppings">Toppings</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="nameClient">Name <xliff:g id="name" example="Duke">%s</xliff:g></string>
+
+    <!-- Java file Strings. Length [CHAR LIMIT = 18]-->
+    <string name="thank_you">Thank You !!</string>
+
+</resources>
